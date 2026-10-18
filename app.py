@@ -632,7 +632,7 @@ with f_col1:
 with f_col2:
     st.markdown("""
     <div style="text-align: right; font-size: 0.85rem; color: #64748b;">
-        Partner Resource:<br>
-        <a href="https://bitumencalcpro.com" target="_blank" rel="noopener noreferrer" style="color: #2563eb; font-weight: 600;">Bitumen Calc Pro — Binder & Emulsion Calculator</a>
+        useful Resource:<br>
+        <a href="https://bitumencalcpro.com" target="_blank" rel="noopener noreferrer" style="color: #2563eb; font-weight: 600;">bituminous Calculator </a>
     </div>
     """, unsafe_allow_html=True)
